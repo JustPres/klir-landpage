@@ -1,0 +1,6 @@
+{
+  "name": "Klir - Smart Hygiene",
+  "description": "An ESP32-based IoT toilet system landing page featuring automated lid control, real-time tracking, and UV-C disinfection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
